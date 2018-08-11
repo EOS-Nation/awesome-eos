@@ -99,6 +99,7 @@
   - [EOS Nairobi](https://t.me/eosnairobi)
   - [EOS Hong Kong](https://t.me/EOSHongKong)
   - [EOS Berlin](https://t.me/EOSBerlin)
+  - [EOS Lisbon](https://t.me/joinchat/Es2hzhHPRqU-Zc8DqLSb7Q)
     
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
@@ -141,6 +142,8 @@
   - South Korea
     - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
 - Europe
+  - Portugal
+    - [EOS Lisbon](https://www.meetup.com/Lisbon-EOS-IO-meetup/)
   - UK
     - [EOS London](https://www.meetup.com/EOSLONDON/)
     - [EOS Berlin](https://www.meetup.com/eosioberlin/)
